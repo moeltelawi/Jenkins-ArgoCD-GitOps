@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: node-app
-        image: eltelawi/gitops-crash:latest
+        image: eltelawi/gitops-crash
         ports:
         - containerPort: 3000
 
